@@ -21,7 +21,7 @@ namespace MongoDb
             //        City = "Oujda",
             //        State = "Oriental",
             //        ZipCode = "60000",
-            //        Address = "B45, Lot le fath, N18 Lazaret"
+            //        Address = "Some fake address"
             //    }
             //};
 
@@ -51,7 +51,7 @@ namespace MongoDb
 
             /** update a record in database **/
             //var person = db.GetRecordById<PersonModel>("Users", new Guid("1995f2ff-0e7f-4d2a-a7f7-858e99ab2c6a"));
-            //person.BirthDate = new DateTime(2000, 04, 29);
+            //person.BirthDate = new DateTime(2000, 05, 29);
 
             //db.UpsertRecord<PersonModel>("Users", person.Id, person);
 
